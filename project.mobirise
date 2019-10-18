@@ -12,7 +12,9 @@
     "siteFonts": [],
     "uniqCompNum": 4,
     "versionPublish": "4.10.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
